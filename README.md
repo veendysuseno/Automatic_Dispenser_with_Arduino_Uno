@@ -49,6 +49,8 @@ Connect the components as follows:
 - Enter the I2C LCD address in the sketch program.
 - Carry out the process of uploading the program
 
+<hr/>
+
 ### Code
 
 The following Arduino code is used to control the automatic dispenser:
@@ -79,6 +81,8 @@ void loop() {
 }
 
 ```
+<hr/>
+
 ### How to Upload the Code
 
 1. Open the Arduino IDE.
