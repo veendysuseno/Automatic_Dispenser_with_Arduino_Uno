@@ -78,6 +78,7 @@ void loop() {
   }
 }
 
+```
 ### How to Upload the Code
 
 1. Open the Arduino IDE.
@@ -97,6 +98,3 @@ void loop() {
 
 ## Conclusion:
 - The program works by detecting the sensor distance ultrasonic with objects (glass). If the distance is less than specified then the servo will pull the tap dispenser so that the water will flow automatically.
-
-<hr/>
-```
